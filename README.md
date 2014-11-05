@@ -1,3 +1,5 @@
 test-repo
 =========
-Test 1
+# Heading
+## Secondary heading
+### Tertiary heading
